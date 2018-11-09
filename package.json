@@ -552,6 +552,5 @@
   "yargs": {
     "combine-arrays": true
   },
-  "gitter": "https://gitter.im/mochajs/mocha",
-  "bugs": "https://github.com/mochajs/mocha/issues"
+  "gitter": "https://gitter.im/mochajs/mocha"
 }
